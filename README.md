@@ -114,10 +114,6 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The information in this website was gathered from the following sources
@@ -130,6 +126,6 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The Hero image is from??...
+- The images used on the website are from?...
 - Hero image was optimised at https://imagecompressor.com/
