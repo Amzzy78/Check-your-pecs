@@ -2,7 +2,7 @@ Check your Pecks
 
 - How to check yourself
 
-1. Check your pecks (breasts) in front of a mirror for any symptoms or abnormalities.
+1. Check your pecs (breasts) in front of a mirror for any symptoms or abnormalities.
 2. Examine the nipple, most men find their lumps under the nipple.
 3. In a sitting or standing position, use the pads of the three middle fingers - examine using light, medium and deep pressure.
 4. Examining starts at the collarbone and continues down and up the entire breast in a vertical pattern.
@@ -17,7 +17,7 @@ https://malebreastcancercoalition.org/wp-content/uploads/FEMALE-MALE-BSE_700W.jp
 
 - How often
 
-If you have feel you have a higher risk of developing breast cancer, you may want to check your pecks regularly, such as once a month. Stick to a schedule and peform the check on the same day each month. We can help remind you by signing up to our reminder service. Every month we'll send you a gentle reminder to check yourself so you'll never forget.
+If you have feel you have a higher risk of developing breast cancer, you may want to check your pecs regularly, such as once a month. Stick to a schedule and peform the check on the same day each month. We can help remind you by signing up to our reminder service. Every month we'll send you a gentle reminder to check yourself so you'll never forget.
 
 
 Source
@@ -58,7 +58,7 @@ https://www.healthline.com/health/estrogen-in-men#high-estrogen
 
 - Why it's important
 
-Checking your Pecks regularly is vital so that you understand the normal look and feel of your breasts. You'll more easily be able to identify any abnormalities and catch the changes as soon as possible.
+Checking your Pecs regularly is vital so that you understand the normal look and feel of your breasts. You'll more easily be able to identify any abnormalities and catch the changes as soon as possible.
 
 
 Source
