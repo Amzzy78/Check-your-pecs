@@ -143,3 +143,4 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - The images used on the website are from?...
 - Hero image was optimised at https://imagecompressor.com/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
+- Font https://www.1001freefonts.com/government-agent.font
