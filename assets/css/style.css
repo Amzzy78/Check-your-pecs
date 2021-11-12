@@ -1,4 +1,14 @@
+/* Import the local font */
+@font-face {
+    font-family: raceline;
+    src: url(../fonts/raceline.otf);
+}
+
 body {
     background: #EFD7CA;
     padding: 0px;
+}
+
+h1 {
+    font-family: raceline;
 }
