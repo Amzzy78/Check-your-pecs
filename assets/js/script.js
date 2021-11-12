@@ -1,8 +1,7 @@
+/**
+ * Add or remove "responsive" from the class name
+ */
 function hamburgerLinks() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-        x.className += " responsive";
-    } else {
-        x.className = "topnav";
-    }
+    const x = document.getElementById("myTopnav");
+    (x.className === "topnav") ? x.className += " responsive" : x.className = "topnav";
 }
