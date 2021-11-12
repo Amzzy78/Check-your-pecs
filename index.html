@@ -5,22 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Check your Pecs!</title>
+    <title>Check Your Pecs</title>
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#">Sign Up</a></li>
-                <li><a href="#">Check Yourself</a></li>
-                <li><a href="#">How Often?</a></li>
-                <li><a href="#">Symptoms</a></li>
-                <li><a href="#">Prevention</a></li>
-                <li><a href="#">Why It's Important</a></li>
-                <li><a href="#">I've Found Something</a></li>
-            </ul>
-        </nav>
+        <div class="topnav" id="myTopnav">
+            <a href="#sign-up" class="active">Sign Up</a>
+            <a href="#check-yourself">Check Yourself</a>
+            <div class="dropdown">
+                <button class="dropbtn">More Info 
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="#how-often">How Often?</a>
+                    <a href="#">Symptoms</a>
+                    <a href="#">Prevention</a>
+                    <a href="#">Why It's Important</a>
+                </div>
+            </div> 
+            <a href="#found-something">Found Something?</a>
+            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="hamburgerLinks()">&#9776;</a>
+        </div>
     </header>
 
     <main>
