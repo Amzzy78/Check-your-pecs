@@ -18,8 +18,8 @@ In this section, you should go over the different parts of your project, and des
 
 - __Typography__
 
-  - For the main heading, scoreboard and the noughts and crosses themselves I chose the "Edo" font from [1001 Fonts](https://www.1001freefonts.com/edo.font).
-  - This font is in a hand drawn, brushed ink looking style which users will appreciate and help them to feel like they're playing it by hand with a friend.  - I also styled the hard mode toggle switch with the same Edo font.
+  - For the main title and subsequent headings we chose the "Government-Agent" font from [1001 Free Fonts](https://www.1001freefonts.com/government-agent.font).
+  - This font is in a masculine style which we hope will appeal to our target audience.
 
 - __Colour Scheme__
 

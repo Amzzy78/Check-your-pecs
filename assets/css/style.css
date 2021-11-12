@@ -97,8 +97,56 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-  
-@media screen and (max-width: 600px) {
+
+/* Hero image and title */
+
+#hero-image {
+    background-image: url('../images/hero-image-small.jpg');
+    background-size: 100%;
+    background-position-y: 70%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
+
+#cover-text, #cover-text h2, #cover-text h3 {
+    color: #EFD7CA;
+    font-weight: normal;
+}
+
+#cover-text {
+    font-size: 230%;
+    font-family: govtagentbb, Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 6px;
+    top: 160px;
+    left: 50px;
+    position: absolute;
+}
+
+/* Responsiveness */
+
+@media screen and (max-width: 1100px) {
+    #hero-image {
+        height: 500px;
+    }
+    #cover-text {
+        font-size: 150%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #hero-image {
+        height: 400px;
+    }
+    #cover-text {
+        letter-spacing: 4px;
+        top: 190px;
+        left: 30px;
+        font-size: 110%;
+    }
+}
+
+@media screen and (max-width: 660px) {
     .topnav a:not(:first-child), .dropdown .dropbtn {
         display: none;
     }
@@ -106,9 +154,7 @@ body {
         float: right;
         display: block;
     }
-}
-  
-@media screen and (max-width: 600px) {
+
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
         position: absolute;
@@ -127,34 +173,13 @@ body {
         width: 100%;
         text-align: left;
     }
-}
-
-
-
-
-#hero-image {
-    background-image: url('../images/hero-image.jpg');
-    background-size: 100%;
-    background-position-y: 70%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 700px;
-}
-
-#cover-text, #cover-text h2, #cover-text h3 {
-    color: #EFD7CA;
-    font-weight: normal;
-}
-
-#cover-text {
-    
-    font-size: 230%;
-    font-family: govtagentbb, Verdana, Geneva, Tahoma, sans-serif;
-    
-    letter-spacing: 6px;
-    
-    top: 160px;
-    left: 50px;
-
-    position: absolute;
+    #hero-image {
+        height: 200px;
+    }
+    #cover-text {
+        letter-spacing: 3px;
+        top: 190px;
+        left: 20px;
+        font-size: 80%;
+    }
 }
