@@ -3,6 +3,10 @@
     font-family: govtagentbb;
     src: url(../fonts/govtagentbb.ttf);
 }
+@font-face {
+    font-family: govtagentbb_ital;
+    src: url(../fonts/govtagentbb_ital.ttf);
+}
 
 * {
     margin: 0;
@@ -12,6 +16,7 @@
 
 body {
     background: #EFD7CA;
+    font-family: Arial, Helvetica, sans-serif;
     color: #383D2E;
     margin: 0;
 }
@@ -20,13 +25,15 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #383D2E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
   
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #fff5f0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -51,10 +58,11 @@ body {
     font-size: 17px;    
     border: none;
     outline: none;
-    color: white;
+    color: #EFD7CA;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
+    font-weight: bold;
     margin: 0;
 }
   
@@ -141,7 +149,7 @@ body {
 #cover-text {
     
     font-size: 230%;
-    font-family: govtagentbb;
+    font-family: govtagentbb, Verdana, Geneva, Tahoma, sans-serif;
     
     letter-spacing: 6px;
     

@@ -145,6 +145,7 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
 - Font https://www.1001freefonts.com/government-agent.font
 - Hero image from https://pixabay.com/photos/naked-upper-body-fit-lifestyle-1847866/
+- Top nav code origin from https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp 
 
 https://pixabay.com/photos/man-old-senior-suffering-despair-513529/
 https://pixabay.com/photos/man-smile-happy-people-portrait-4333898/
