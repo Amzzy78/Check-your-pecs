@@ -16,6 +16,19 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
+- __Typography__
+
+  - For the main heading, scoreboard and the noughts and crosses themselves I chose the "Edo" font from [1001 Fonts](https://www.1001freefonts.com/edo.font).
+  - This font is in a hand drawn, brushed ink looking style which users will appreciate and help them to feel like they're playing it by hand with a friend.  - I also styled the hard mode toggle switch with the same Edo font.
+
+- __Colour Scheme__
+
+  - We thought about the colours and decided a masculine colour would be more suitable than the normal pink breast cancer colour schemes, because we're specifically raising awareness for male breast cancer.
+  - A blog post from a reputable marketing company led us to the "masculine" colours we chose which we hope will help to make more men feel comfortable looking at this information. ![Blog Post](https://hookagency.com/blog/masculine-color-schemes/)
+  - One of the colours they listed is also a shade of pink which we felt helps to link back to the wider breast cancer awareness community.
+
+![Colour Scheme](https://raw.githubusercontent.com/amzzy78/Check-your-pecs/main/assets/images/readme-images/colour-palette.webp)
+
 - __Navigation Bar__
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
@@ -129,3 +142,4 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - The Hero image is from??...
 - The images used on the website are from?...
 - Hero image was optimised at https://imagecompressor.com/
+- Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
