@@ -15,7 +15,7 @@
 <body>
     <header>
         <div class="topnav" id="myTopnav">
-            <a href="#sign-up" class="active">Sign Up</a>
+            <a href="#sign-up" class="active" onclick="document.getElementById('id01').style.display='block'">Sign Up</a>
             <a href="#check-yourself">Check Yourself</a>
             <div class="dropdown">
                 <button class="dropbtn">More Info
@@ -220,6 +220,38 @@
             <p class="copyright">Male Breast Cancer Awareness Campaign</p>
             <p class="copyright">©2021 Check Your Pecs</p>
     </footer>
+
+    <!-- The Modal (contains the Sign Up form) -->
+    <div id="id01" class="modal">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+        <form class="modal-content" action="">
+            <div class="container">
+                <h1>Sign Up</h1>
+                <p>Every month we'll remind you to Check Your Pecs!</p>
+                <hr>
+                <label for="name"><b>Name</b></label>
+                <input type="text" placeholder="Enter Name" name="name" required>
+
+                <label for="email"><b>Email</b></label>
+                <input type="email" placeholder="Enter Email" name="email" required>
+
+                <label for="age"><b>Age Range</b></label><br><br>
+
+                <input type="radio" name="age" id="Under40" value="Under40" required>
+                <label for="Under40">Under 40</label><br>
+                <input type="radio" name="age" id="40to60" value="40to60">
+                <label for="40to60">40 to 60</label><br>
+                <input type="radio" name="age" id="Over60" value="Over60">
+                <label for="Over60">Over 60</label><br><br>
+
+                <div class="clearfix">
+                    <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+                    <button type="submit" class="signup">Sign Up</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
     <script src="assets/js/script.js"></script>
 </body>
 
