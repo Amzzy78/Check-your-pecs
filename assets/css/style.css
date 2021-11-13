@@ -206,3 +206,82 @@ body {
         font-size: 80%;
     }
 }
+
+/*------------------------------- */
+
+
+/* Container for flexboxes */
+.row {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.column {
+    background-color: #705a4a;
+    font-weight: bold;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 10px;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+.line-break {
+    border-color: #705a4a;
+    border-style: ridge;
+    border-width: 3px;
+
+}
+
+.column-text-headings {
+    color: whitesmoke;
+    font-size: 30px;
+
+}
+
+.h2-text {
+    color: #383D2E;
+}
+
+.mid-h2 {
+    color: whitesmoke;
+}
+
+.p-mid {
+    color: #EFD7CA;
+}
+
+/* Left and right column */
+.column.side {
+    background-color: #EFD7CA;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+ }
+ 
+ /* Middle column */
+ .column.middle {
+   -webkit-flex: 2;
+   -ms-flex: 2;
+   flex: 2;
+ }
+
+  /* Style the footer */
+  .footer {
+    background-color: #383D2E;
+    color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+
+ /* Responsive layout - columns stack on top of each other instead of next to each other */
+ @media (max-width: 600px) {
+    .row {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
