@@ -310,6 +310,25 @@ body {
     color: #EFD7CA;
 }
 
+/*Private Policy page*/
+#policy-text {
+    color: #383D2E;
+    
+}
+#colour-policy {
+    background-color: #EFD7CA;
+}
+.resources {
+    color: #383D2E;
+    text-align: center;
+}
+.resources-info {
+    text-align: center;
+}
+.links-resources {
+    text-align: center;
+}
+
 /* Responsive layout - columns stack on top of each other instead of next to each other */
 @media (max-width: 600px) {
     .row {
@@ -317,3 +336,4 @@ body {
         flex-direction: column;
     }
 }
+
