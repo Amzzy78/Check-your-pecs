@@ -296,6 +296,15 @@ body {
     text-align: center;
 }
 
+.footer a {
+    color: whitesmoke;
+
+}
+
+.footer a:hover {
+    color: goldenrod
+}
+
 .copyright {
     font-size: smaller;
     color: #EFD7CA;
