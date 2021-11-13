@@ -42,7 +42,7 @@ body {
 }
 
 .active {
-    background-color: #04AA6D;
+    background-color: #9c0d0d;
     color: white;
 }
 
@@ -59,7 +59,7 @@ body {
     font-size: 17px;
     border: none;
     outline: none;
-    color: #EFD7CA;
+    color: #fff5f0;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -126,6 +126,17 @@ body {
     top: 160px;
     left: 50px;
     position: absolute;
+}
+
+#cover-text h3 {
+    font-size: 87%;
+    letter-spacing: 1px;
+}
+
+/* List indent */
+
+#check-yourself ol{
+    padding-left: 15px;
 }
 
 /* Responsiveness */
@@ -201,7 +212,7 @@ body {
 
     #cover-text {
         letter-spacing: 3px;
-        top: 190px;
+        top: 205px;
         left: 20px;
         font-size: 80%;
     }
