@@ -133,6 +133,12 @@ body {
     letter-spacing: 1px;
 }
 
+/* List indent */
+
+#check-yourself ol{
+    padding-left: 15px;
+}
+
 /* Responsiveness */
 
 @media screen and (max-width: 1100px) {
