@@ -34,7 +34,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329755)
+![Nav Bar](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
 
 - __The landing page hero image__
 
