@@ -91,7 +91,8 @@ In this section, you should go over the different parts of your project, and des
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_signup.png)
+![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
