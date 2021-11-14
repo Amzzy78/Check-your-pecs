@@ -108,7 +108,7 @@ The responsive design allows for different screen sizes as proven by using [Resp
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F)
 
-  ![html](<img width="764" alt="validation-policy" src="https://user-images.githubusercontent.com/62209464/141690014-077ee5f7-12be-491c-8ce5-696f63af625f.png">)
+  ![html](img width="764" alt="validation-policy" src="https://user-images.githubusercontent.com/62209464/141690014-077ee5f7-12be-491c-8ce5-696f63af625f.png")
   <br>
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
