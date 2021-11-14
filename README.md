@@ -98,6 +98,13 @@ In this section, you should go over the different parts of your project, and des
 ## Footer
 ![footer](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
 
+## Privacy Policy
+![policy](https://user-images.githubusercontent.com/62209464/141694675-3c6fd3f8-9fac-4470-9a87-b8d1b411d38e.jpg)
+
+## Resources
+![resources](https://user-images.githubusercontent.com/62209464/141694683-da51a542-4e19-4232-a9d4-6c26fe938228.jpg)
+
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
