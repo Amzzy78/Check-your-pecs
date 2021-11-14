@@ -27,61 +27,61 @@ In this section, you should go over the different parts of your project, and des
   - A blog post from a reputable marketing company led us to the "masculine" colours we chose which we hope will help to make more men feel comfortable looking at this information. ![Blog Post](https://hookagency.com/blog/masculine-color-schemes/)
   - One of the colours they listed is also a shade of pink which we felt helps to link back to the wider breast cancer awareness community.
 
-![Colour Scheme](https://raw.githubusercontent.com/amzzy78/Check-your-pecs/main/assets/images/readme-images/colour-palette.webp)
+![Colour Scheme](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968326855)
 
 - __Navigation Bar__
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_runnig_nav.png)
+![Nav Bar](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329755)
 
-- __The landing page image__
+- __The landing page hero image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_landing.png)
+![Landing Page hero](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329647)
 
 - __Club Signup Modal__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_ethos.png)
+![Club Signup Modal](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_ethos.png)
 
 - __How to check yourself__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_times.png)
+![How to check yourself](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329578)
 
 - __How often__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_footer.png)
+![How often](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329490)
 
 - __Symptoms__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_gallery.png)
+![Symptoms](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968329453)
 
 - __Prevention__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_signup.png)
+![Prevention](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968330540)
 
 - __Why it's important__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_signup.png)
+![Sign Up](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968330795)
 
 - __What you should do if you find something__
 
@@ -107,8 +107,13 @@ The responsive design allows for different screen sizes as proven by using [Resp
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F)
+
+  ![html](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968325004)
+  <br>
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ![css](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968326344)
 
 ### Unfixed Bugs
 
@@ -136,11 +141,15 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
   - https://www.nhs.uk/conditions/breast-cancer-in-men/symptoms/
   - https://www.healthline.com/health/estrogen-in-men#high-estrogen
   - https://www.mayoclinic.org/tests-procedures/breast-exam/about/pac-20393237
+  - ![risk factors](https://www.nationalbreastcancer.org/male-breast-cancer)
 
 ### Media
 
 - The Hero image is from??...
-- The images used on the website are from?...
+- The images used on the website are from: 
+- ![adobe stock](https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632)
+- ![symptoms image](virtualmedicalcentre.com)
+- ![check breast image](karenhospital.org)
 - Hero image was optimised at https://imagecompressor.com/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
 - Font https://www.1001freefonts.com/government-agent.font
