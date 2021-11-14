@@ -346,13 +346,9 @@ body {
 }
 
 /*Private Policy page*/
-#policy-text {
-    color: #383D2E;
-
-}
-
-#colour-policy {
-    background-color: #EFD7CA;
+.text-col {
+    color: #EFD7CA ;
+    
 }
 
 .resources {
