@@ -8,7 +8,7 @@ Example readme template as base..
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_mockup.png)
+![responsive](https://user-images.githubusercontent.com/62209464/141694449-047ea760-083c-486c-9f50-5e0ec0ecb451.jpg)
 
 ## Wireframe
 ![New-Wireframe-1](https://user-images.githubusercontent.com/62209464/141694372-22250c56-d2dd-4189-9221-8779cfb5c260.jpg)
