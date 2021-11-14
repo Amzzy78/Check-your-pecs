@@ -140,7 +140,9 @@ body {
 }
 
 /* Button to go top */
-#topBtn, #topBtnPrivacy, #topBtnResource {
+#topBtn,
+#topBtnPrivacy,
+#topBtnResource {
     display: none;
     position: fixed;
     width: auto;
@@ -155,11 +157,12 @@ body {
     cursor: pointer;
     padding: 15px;
     border-radius: 5px;
-  }
-  
-  #topBtn:hover {
+}
+
+#topBtn:hover {
     background-color: #555;
-  }
+}
+
 /* Responsiveness */
 
 @media screen and (max-width: 1100px) {
