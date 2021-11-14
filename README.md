@@ -37,7 +37,8 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
+![navbar](https://user-images.githubusercontent.com/62209464/141690994-99dea493-37b4-41d9-b5b6-e87e954a8ed4.jpg)
+
 
 - __The landing page hero image__
 
@@ -92,6 +93,9 @@ In this section, you should go over the different parts of your project, and des
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
 ![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
+
+## Footer
+![footer](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
