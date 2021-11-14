@@ -352,6 +352,15 @@ body {
     }
 }
 
+@media (max-width: 600px) {
+    #policy-text {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+        font-size: 100%;
+    }
+}
+
+
 /* Sign up modal */
 
 * {
