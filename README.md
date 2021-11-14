@@ -11,7 +11,7 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_runing_mockup.png)
 
 ## Wireframe
-![New Wireframe 1](https://user-images.githubusercontent.com/62209464/141694313-70fb9ff4-948d-4543-acd7-dcd7137b863c.jpg)
+![New-Wireframe-1](https://user-images.githubusercontent.com/62209464/141694372-22250c56-d2dd-4189-9221-8779cfb5c260.jpg)
 
 ## Features 
 
