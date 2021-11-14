@@ -135,7 +135,7 @@ body {
 
 /* List indent */
 
-#check-yourself ol{
+#check-yourself ol {
     padding-left: 15px;
 }
 
@@ -324,18 +324,22 @@ body {
 /*Private Policy page*/
 #policy-text {
     color: #383D2E;
-    
+
 }
+
 #colour-policy {
     background-color: #EFD7CA;
 }
+
 .resources {
     color: #383D2E;
     text-align: center;
 }
+
 .resources-info {
     text-align: center;
 }
+
 .links-resources {
     text-align: center;
 }
@@ -347,4 +351,3 @@ body {
         flex-direction: column;
     }
 }
-
