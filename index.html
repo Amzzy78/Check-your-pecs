@@ -229,33 +229,35 @@
 
     <!-- The Modal (contains the Sign Up form) -->
     <div id="id01" class="modal">
-        <span onclick="document.getElementById('id01').style.display='none'" class="close"
+        <span onclick="closeModal()" class="close"
             title="Close Modal">&times;</span>
-        <form class="modal-content" action="signup.html" method="get">
+        <form class="modal-content" id="formElem" method="dialog">
             <div class="container">
                 <h1>Sign Up</h1>
                 <p>Every month we'll remind you to Check Your Pecs!</p>
                 <hr>
-                <label for="name"><b>Name</b></label>
-                <input type="text" placeholder="Enter Name" name="name" id="name" required>
+                <span id="form-area">
+                    <label for="name"><b>Name</b></label>
+                    <input type="text" placeholder="Enter Name" name="name" id="name" required>
 
-                <label for="email"><b>Email</b></label>
-                <input type="email" placeholder="Enter Email" name="email" id="email" required>
+                    <label for="email"><b>Email</b></label>
+                    <input type="email" placeholder="Enter Email" name="email" id="email" required>
 
-                <label for="Under40"><b>Age Range</b></label><br><br>
+                    <label for="Under40"><b>Age Range</b></label><br><br>
 
-                <input type="radio" name="age" id="Under40" value="Under40" required>
-                <label for="Under40">Under 40</label><br>
-                <input type="radio" name="age" id="40to60" value="40to60">
-                <label for="40to60">40 to 60</label><br>
-                <input type="radio" name="age" id="Over60" value="Over60">
-                <label for="Over60">Over 60</label><br><br>
+                    <input type="radio" name="age" id="Under40" value="Under40">
+                    <label for="Under40">Under 40</label><br>
+                    <input type="radio" name="age" id="40to60" value="40to60">
+                    <label for="40to60">40 to 60</label><br>
+                    <input type="radio" name="age" id="Over60" value="Over60" checked>
+                    <label for="Over60">Over 60</label><br><br>
 
-                <div class="clearfix">
-                    <button type="button" onclick="document.getElementById('id01').style.display='none'"
-                        class="cancelbtn">Cancel</button>
-                    <button type="submit" class="signup">Sign Up</button>
-                </div>
+                    <div class="clearfix">
+                        <button type="button" onclick="closeModal()"
+                            class="cancelbtn">Cancel</button>
+                        <button type="submit" class="signup" onclick="formSubmit()">Sign Up</button>
+                    </div>
+                </span>
             </div>
         </form>
     </div>
