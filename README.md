@@ -158,15 +158,15 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
   - https://www.nhs.uk/conditions/breast-cancer-in-men/symptoms/
   - https://www.healthline.com/health/estrogen-in-men#high-estrogen
   - https://www.mayoclinic.org/tests-procedures/breast-exam/about/pac-20393237
-  - ![risk factors](https://www.nationalbreastcancer.org/male-breast-cancer)
+  - https://www.nationalbreastcancer.org/male-breast-cancer
 
 ### Media
 
 - The Hero image is from??...
 - The images used on the website are from: 
-- ![adobe stock](https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632)
-- ![symptoms image](virtualmedicalcentre.com)
-- ![check breast image](karenhospital.org)
+- https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632
+- virtualmedicalcentre.com
+- karenhospital.org
 - Hero image was optimised at https://imagecompressor.com/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
 - Font https://www.1001freefonts.com/government-agent.font
