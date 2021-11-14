@@ -54,6 +54,9 @@ In this section, you should go over the different parts of your project, and des
 
 ![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
 
+## Intro to sites purpose
+![Intro](https://user-images.githubusercontent.com/62209464/141690973-514650e0-d0ba-4030-ba28-131fcedafdbc.jpg)
+
 - __How to check yourself__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
