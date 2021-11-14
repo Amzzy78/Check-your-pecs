@@ -27,7 +27,7 @@ In this section, you should go over the different parts of your project, and des
   - A blog post from a reputable marketing company led us to the "masculine" colours we chose which we hope will help to make more men feel comfortable looking at this information. ![Blog Post](https://hookagency.com/blog/masculine-color-schemes/)
   - One of the colours they listed is also a shade of pink which we felt helps to link back to the wider breast cancer awareness community.
 
-![Colour Scheme](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968326855)
+![Colour Scheme](https://user-images.githubusercontent.com/62209464/141690396-ad620b3b-a5c7-40b5-bcd2-c8a6e725389b.jpg)
 
 - __Navigation Bar__
 
