@@ -113,7 +113,7 @@ The responsive design allows for different screen sizes as proven by using [Resp
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-  ![css](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968326344)
+  ![css](https://user-images.githubusercontent.com/62209464/141690293-a1d22283-6a17-493d-9445-3a1b3a1df476.jpg)
 
 ### Unfixed Bugs
 
