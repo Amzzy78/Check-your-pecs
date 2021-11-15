@@ -66,7 +66,7 @@ Check Your Pecs is a fully responsive site.
 
   - The signup form is to encourage users to sign up for a monthly reminder to check themselves. 
 
-![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
+![sign-up](https://user-images.githubusercontent.com/62209464/141756214-e02aa375-0bb8-4176-9c0e-09f25f4ee537.jpg)
 
 
 - __The landing page hero image__
@@ -83,23 +83,22 @@ Check Your Pecs is a fully responsive site.
 
 - __How to check yourself__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to see exactly how to check there breasts with the help of a diagram showing the steps.
 
 ![check-yourself](https://user-images.githubusercontent.com/62209464/141690963-d66dc0e7-798f-45a0-8e98-45354397223a.jpg)
 
 
 - __How often__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - This section will inform the user on how often to check themselves.
+  - It will also encourage the user to sign up.
 
 ![how-often](https://user-images.githubusercontent.com/62209464/141690939-c97ff995-5855-4366-afb0-271e46cfddda.jpg)
 
 - __Symptoms__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This section will inform the user about the symptoms of male breast cancer.
+  - There is also a diagram detailing the symptoms.
 
 ![symptoms-image](https://user-images.githubusercontent.com/62209464/141690932-6c30c879-2187-451a-b2c6-f8b121447257.jpg)
 
