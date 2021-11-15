@@ -168,9 +168,12 @@ Check Your Pecs is a fully responsive site.
 ## __Testing__
 
 - We tested the website on a number of browsers and devices and all is working as intended.
+- The responsive design allows for different screen sizes as proven by using Responsinator.
+- (http://www.responsinator.com/?url=amzzy78.github.io%2FCheck-your-pecs%2F)
 
-The responsive design allows for different screen sizes as proven by using 
-![Responsinator](http://www.responsinator.com/?url=amzzy78.github.io%2FCheck-your-pecs%2F)
+![Responsive](https://user-images.githubusercontent.com/62209464/141762262-52466604-f86d-4498-b1a5-cb3752f321c0.jpg)
+
+
 
 ### Validator Testing 
 
