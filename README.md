@@ -102,29 +102,42 @@ Check Your Pecs is a fully responsive site.
 
 ![symptoms-image](https://user-images.githubusercontent.com/62209464/141690932-6c30c879-2187-451a-b2c6-f8b121447257.jpg)
 
+- __Risk Factors__
+
+- This section explains some of the risk factors associated with male breast cancer.
+
+![risks-image](https://user-images.githubusercontent.com/62209464/141690922-65ce3c16-6023-4a17-b6d0-41a921744397.jpg)
+
 - __Prevention__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This section contains information on how to possibly prevent the cancer.
 
 ![prevention](https://user-images.githubusercontent.com/62209464/141691209-916a9455-afcb-41d8-889c-ed07364ba476.jpg)
 
 - __Why it's important__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/Amzzy78/Check-your-pecs/issues/33#issuecomment-968330795)
+  - This section encourages the user to think about why it is importantto check themselves.
 
 - __What you should do if you find something__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This section offers suggestions on why it is important to check yourself.
+  - There is also a link to the Rescources page encouraging the user to seek more information on the topic and links to the various social media support groups available. 
 
-## Footer
+## __Footer__
+- The footer contains the link to the Resources page and the Privacy Policy page.
+- It also has the Check Your Pecs text logo which links back to the top of the page.
+- Plus a button called Top to also take the user back to the top of the landing page.
+
 ![footer](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
 
-## Privacy Policy
+## __Privacy Policy__
+- This page contains important information on the sites legal requirements.
+- 
 ![policy](https://user-images.githubusercontent.com/62209464/141694675-3c6fd3f8-9fac-4470-9a87-b8d1b411d38e.jpg)
 
-## Resources
+## __Resources__
+- The Resources page has all the important external links to relevant websites, social media support groups and newspaper articles on male breast cancer survivors stories.
+
 ![resources](https://user-images.githubusercontent.com/62209464/141694683-da51a542-4e19-4232-a9d4-6c26fe938228.jpg)
 
 ## Design
