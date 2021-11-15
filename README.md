@@ -161,6 +161,8 @@ Check Your Pecs is a fully responsive site.
  - We chose images to relect males over 60 in a positive and healthy light.
  - The diagram images are simple and to the point.
 
+-------------------------------
+
 ### __Features Left to Implement__
 
 - 
@@ -173,15 +175,20 @@ Check Your Pecs is a fully responsive site.
 
 ![Responsive](https://user-images.githubusercontent.com/62209464/141762262-52466604-f86d-4498-b1a5-cb3752f321c0.jpg)
 
-### Validator Testing 
+### __Validator Testing__
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F)
-  ### Privacy Policy page
+
+ ### __Landing Page
+
+![index](https://user-images.githubusercontent.com/62209464/141771079-fb7070df-a968-400c-9cff-67c44b032010.jpg)
+
+  ### __Privacy Policy page__
 
   ![html](https://user-images.githubusercontent.com/62209464/141690014-077ee5f7-12be-491c-8ce5-696f63af625f.png)
   <br>
-  ### Resources Page
+  ### __Resources Page__
   
   ![validator-res](https://user-images.githubusercontent.com/62209464/141763230-5d7b811b-83bd-458f-a03e-0384439243fa.jpg)
   <br>
@@ -191,18 +198,26 @@ Check Your Pecs is a fully responsive site.
 
   ![css](https://user-images.githubusercontent.com/62209464/141690293-a1d22283-6a17-493d-9445-3a1b3a1df476.jpg)
   
-  ### Lighthouse Testing
+  ### __Lighthouse Testing__
+  
+  ### __Landing Page
+  
+  
+  
+  #### __Privacy Policy__
+  
   ![policy-lighthouse](https://user-images.githubusercontent.com/62209464/141767068-649e9444-f25f-4dc2-ab40-9506d4720a57.jpg)
-  <br>
+  
+  ### __Resources__
   
   ![res-lighthouse](https://user-images.githubusercontent.com/62209464/141768469-47e71005-a54d-4c21-9189-412d136ebbe3.jpg)
+  
 
-
-### Unfixed Bugs
+### __Unfixed Bugs__
 
 - None found
 
-## Deployment
+## __Deployment__
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -212,10 +227,11 @@ Check Your Pecs is a fully responsive site.
 
 The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
+-------------------------------
 
-## Credits 
+## __Credits__ 
 
-### Content 
+### __Content__ 
 
 - The information in this website was gathered from the following sources
   - https://malebreastcancercoalition.org
@@ -226,7 +242,7 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
   - https://www.mayoclinic.org/tests-procedures/breast-exam/about/pac-20393237
   - https://www.nationalbreastcancer.org/male-breast-cancer
 
-### Media
+###__Media__
 
 - The Hero image is from??...
 - The images used on the website are from: 
