@@ -29,11 +29,8 @@ Check Your Pecs is a fully responsive site.
 
 (a.) I want to see reqular updates and content relevant to male breast cancer.
 
-(b.)
+(b.) I want to share experience on male breast cancer
 
-(c.)
-
-(e.)
 
 -------------------------------
 
@@ -44,7 +41,7 @@ Check Your Pecs is a fully responsive site.
 
 1. Nav bar with links to the sites' goal on raising awareness of male breast cancer: check yourself, dropdown menu with more info, found something? and a sign up form to recieve a monthly reminder.
    
-2. Footer bar with links to the site's pages: privacy policy and resources. Plus a button named top to also link back to th etop of the page.
+2. Footer bar with links to the site's pages: privacy policy and resources. There is also a button named Top to also link back to the top of the page.
 
 3. Check Your Pecs text logo in the footer which links back to the top of the page.
 
@@ -71,7 +68,7 @@ Check Your Pecs is a fully responsive site.
 
 - __The landing page hero image__
 
-  - The landing page hero secttion includes a photograph of a males chest area with the sites text logo overlay.
+  - The landing page hero secttion includes a photograph of a male's chest area with the sites text logo overlay.
   - Under the text logo there is a sentence to express the sites purpose. 
   
 ![hero](https://user-images.githubusercontent.com/62209464/141690984-78be544f-8e41-4ab3-89ee-7c93f88d1142.jpg)
@@ -83,7 +80,7 @@ Check Your Pecs is a fully responsive site.
 
 - __How to check yourself__
 
-  - This section will allow the user to see exactly how to check there breasts with the help of a diagram showing the steps.
+  - This section will allow the user to see exactly how to check their breasts with the help of a diagram showing the steps.
 
 ![check-yourself](https://user-images.githubusercontent.com/62209464/141690963-d66dc0e7-798f-45a0-8e98-45354397223a.jpg)
 
@@ -116,7 +113,7 @@ Check Your Pecs is a fully responsive site.
 
 - __Why it's important__
 
-  - This section encourages the user to think about why it is importantto check themselves.
+  - This section encourages the user to think about why it is important to check themselves.
 
 - __What you should do if you find something__
 
@@ -125,14 +122,14 @@ Check Your Pecs is a fully responsive site.
 
 ## __Footer__
 - The footer contains the link to the Resources page and the Privacy Policy page.
-- It also has the Check Your Pecs text logo which links back to the top of the page.
+- It also has the Check Your Pecs text which links back to the top of the page.
 - Plus a button called Top to also take the user back to the top of the landing page.
 
 ![footer](https://user-images.githubusercontent.com/62209464/141690916-05ed5509-eda5-4a77-a255-3771adf1043c.jpg)
 
 ## __Privacy Policy__
 - This page contains important information on the sites legal requirements.
-- The image shows the page in mobile view with the navbar menu expanded.
+- The image shows the page in mobile view with the nav bar menu expanded.
 
 ![policy](https://user-images.githubusercontent.com/62209464/141694675-3c6fd3f8-9fac-4470-9a87-b8d1b411d38e.jpg)
 
@@ -162,12 +159,12 @@ Check Your Pecs is a fully responsive site.
  - The diagram images are simple and to the point.
 
 ### __Features Left to Implement__
-
+It would be nice to have a blog section where users that signed up could be enabled to share their experience to encourage others.
 - 
 
 ## __Testing__
 
-- We tested the website on a number of browsers and devices and all is working as intended.
+- We tested the website on a number of browsers and devices and all are working as intended.
 - The responsive design allows for different screen sizes as proven by using Responsinator.
 - (http://www.responsinator.com/?url=amzzy78.github.io%2FCheck-your-pecs%2F)
 
@@ -200,8 +197,8 @@ Check Your Pecs is a fully responsive site.
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - Then navigate to the Pages section 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the source section drop-down menu, select the Main Branch
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
@@ -221,7 +218,6 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
 ### Media
 
-- The Hero image is from??...
 - The images used on the website are from: 
 - https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632
 - virtualmedicalcentre.com
