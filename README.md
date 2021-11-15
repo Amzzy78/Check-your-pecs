@@ -190,6 +190,11 @@ Check Your Pecs is a fully responsive site.
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
   ![css](https://user-images.githubusercontent.com/62209464/141690293-a1d22283-6a17-493d-9445-3a1b3a1df476.jpg)
+  
+  ### Lighthouse Testing
+  ![policy-lighthouse](https://user-images.githubusercontent.com/62209464/141767068-649e9444-f25f-4dc2-ab40-9506d4720a57.jpg)
+  <br>
+  ![policy-lighthouse](https://user-images.githubusercontent.com/62209464/141767097-9701197a-36d3-4f69-8c67-e7e11beb2552.jpg)
 
 ### Unfixed Bugs
 
