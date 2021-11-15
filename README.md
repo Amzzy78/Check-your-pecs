@@ -132,11 +132,13 @@ Check Your Pecs is a fully responsive site.
 
 ## __Privacy Policy__
 - This page contains important information on the sites legal requirements.
-- 
+- The image shows the page in mobile view with the navbar menu expanded.
+
 ![policy](https://user-images.githubusercontent.com/62209464/141694675-3c6fd3f8-9fac-4470-9a87-b8d1b411d38e.jpg)
 
 ## __Resources__
 - The Resources page has all the important external links to relevant websites, social media support groups and newspaper articles on male breast cancer survivors stories.
+- The image shows the page in mobile view with the footer features.
 
 ![resources](https://user-images.githubusercontent.com/62209464/141694683-da51a542-4e19-4232-a9d4-6c26fe938228.jpg)
 
@@ -155,21 +157,20 @@ Check Your Pecs is a fully responsive site.
 
 ![Colour Scheme](https://user-images.githubusercontent.com/62209464/141690396-ad620b3b-a5c7-40b5-bcd2-c8a6e725389b.jpg)
 
+ ### __Imagery__
+ - We chose images to relect males over 60 in a positive and healthy light.
+ - The diagram images are simple and to the point.
 
+### __Features Left to Implement__
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## __Testing__
 
-### Features Left to Implement
+- We tested the website on a number of browsers and devices and all is working as intended.
 
-- Add Form for reminder signup
-
-## Testing 
-
-We tested the website on a number of browsers and devices and all is working as intended.
-
-The responsive design allows for different screen sizes as proven by using [Responsinator](http://www.responsinator.com/?url=amzzy78.github.io%2FCheck-your-pecs%2F)
+The responsive design allows for different screen sizes as proven by using 
+![Responsinator](http://www.responsinator.com/?url=amzzy78.github.io%2FCheck-your-pecs%2F)
 
 ### Validator Testing 
 
