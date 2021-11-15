@@ -8,9 +8,9 @@ Check Your Pecs is a fully responsive site.
 
 ![responsive](https://user-images.githubusercontent.com/62209464/141694449-047ea760-083c-486c-9f50-5e0ec0ecb451.jpg)
 
-# User Experience (UX)
+# __User Experience (UX)__
 
-## First Time Visitor Goals: 
+## __First Time Visitor Goals:__ 
 (a.) I want to seek information about male breast cancer.
 
 (b.) I want the site to be easy to navigate to the specific sections that I want to read about.
@@ -25,7 +25,7 @@ Check Your Pecs is a fully responsive site.
 
 (f.) I want to be given options to explore the topic further and to seek support groups.
 
-## Returning Visitor Goals: 
+## __Returning Visitor Goals:__ 
 
 (a.) I want to see reqular updates and content relevant to male breast cancer.
 
@@ -37,58 +37,46 @@ Check Your Pecs is a fully responsive site.
 
 -------------------------------
 
-## Wireframe
+## __Wireframe__
 ![New-Wireframe-1](https://user-images.githubusercontent.com/62209464/141694372-22250c56-d2dd-4189-9221-8779cfb5c260.jpg)
 
-## Features 
+## __Features__
 
 1. Nav bar with links to the sites' goal on raising awareness of male breast cancer: check yourself, dropdown menu with more info, found something? and a sign up form to recieve a monthly reminder.
    
-2. Footer bar with links to the site's pages: privacy policy and resources. Plus a button named top to also 
+2. Footer bar with links to the site's pages: privacy policy and resources. Plus a button named top to also link back to th etop of the page.
 
 3. Check Your Pecs text logo in the footer which links back to the top of the page.
 
-4. Content relative to spreading awareness about the topic.
+4. Main content relative to spreading awareness about male breast cancer.
 
 5. Responsive on all device sizes. 
 
 
 ### Existing Features
 
-- __Typography__
-
-  - For the main title and subsequent headings we chose the "Government-Agent" font from [1001 Free Fonts](https://www.1001freefonts.com/government-agent.font).
-  - This font is in a masculine style which we hope will appeal to our target audience.
-
-- __Colour Scheme__
-
-  - We thought about the colours and decided a masculine colour would be more suitable than the normal pink breast cancer colour schemes, because we're specifically raising awareness for male breast cancer.
-  - A blog post from a reputable marketing company led us to the "masculine" colours we chose which we hope will help to make more men feel comfortable looking at this information. ![Blog Post](https://hookagency.com/blog/masculine-color-schemes/)
-  - One of the colours they listed is also a shade of pink which we felt helps to link back to the wider breast cancer awareness community.
-
-![Colour Scheme](https://user-images.githubusercontent.com/62209464/141690396-ad620b3b-a5c7-40b5-bcd2-c8a6e725389b.jpg)
-
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all three pages, the fully responsive navigation bar includes links to the landing page content and a sign up form.
+  - This section will allow the user to easily navigate to the specific information provided within the landing page. 
 
 ![navbar](https://user-images.githubusercontent.com/62209464/141690994-99dea493-37b4-41d9-b5b6-e87e954a8ed4.jpg)
+
+- __Signup Modal__
+
+  - The signup form is to encourage users to sign up for a monthly reminder to check themselves. 
+
+![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
 
 
 - __The landing page hero image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
+  - The landing page hero secttion includes a photograph of a males chest area with the sites text logo overlay.
+  - Under the text logo there is a sentence to express the sites purpose. 
+  
 ![hero](https://user-images.githubusercontent.com/62209464/141690984-78be544f-8e41-4ab3-89ee-7c93f88d1142.jpg)
 
-- __Club Signup Modal__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![sign-up](https://user-images.githubusercontent.com/62209464/141691275-1f3830a5-c9f0-4cae-aea3-4a0074e16e71.jpg)
 
 ## Intro to sites purpose
 ![Intro](https://user-images.githubusercontent.com/62209464/141690973-514650e0-d0ba-4030-ba28-131fcedafdbc.jpg)
@@ -139,6 +127,21 @@ Check Your Pecs is a fully responsive site.
 
 ## Resources
 ![resources](https://user-images.githubusercontent.com/62209464/141694683-da51a542-4e19-4232-a9d4-6c26fe938228.jpg)
+
+## Design
+--------------
+- __Typography__
+
+  - For the main title and subsequent headings we chose the "Government-Agent" font from [1001 Free Fonts](https://www.1001freefonts.com/government-agent.font).
+  - This font is in a masculine style which we hope will appeal to our target audience.
+
+- __Colour Scheme__
+
+  - We thought about the colours and decided a masculine colour would be more suitable than the normal pink breast cancer colour schemes, because we're  specifically raising awareness for male breast cancer.
+  - A blog post from a reputable marketing company led us to the "masculine" colours we chose which we hope will help to make more men feel comfortable looking at this information. ![Blog Post](https://hookagency.com/blog/masculine-color-schemes/)
+  - One of the colours they listed is also a shade of pink which we felt helps to link back to the wider breast cancer awareness community.
+
+![Colour Scheme](https://user-images.githubusercontent.com/62209464/141690396-ad620b3b-a5c7-40b5-bcd2-c8a6e725389b.jpg)
 
 
 
