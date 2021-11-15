@@ -161,8 +161,8 @@ Check Your Pecs is a fully responsive site.
 -------------------------------
 
 ### __Features Left to Implement__
-It would be nice to have a blog section where users that signed up could be enabled to share their experience to encourage others.
-- 
+- It would be nice to have a blog section where users that signed up could be enabled to share their experience to encourage others.
+
 
 ## __Testing__
 
@@ -177,7 +177,7 @@ It would be nice to have a blog section where users that signed up could be enab
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F)
 
- ### __Landing Page
+ ### __Landing Page__
 
 ![index](https://user-images.githubusercontent.com/62209464/141771079-fb7070df-a968-400c-9cff-67c44b032010.jpg)
 
@@ -195,7 +195,7 @@ It would be nice to have a blog section where users that signed up could be enab
 
   ![css](https://user-images.githubusercontent.com/62209464/141690293-a1d22283-6a17-493d-9445-3a1b3a1df476.jpg)
   
-  ### __Lighthouse Testing__
+  ## __Lighthouse Testing__
   
   ### __Landing Page__
   
