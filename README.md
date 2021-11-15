@@ -235,6 +235,14 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
 ## __Credits__ 
 
+  #### Code
+   -------- 
+- https://www.w3schools.com/howto/howto_make_a_website.asp
+-  https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce
+- Instructions on how to implement form validation on the signup form was taken from a Code Institute Tutorial.
+- Top nav code origin from https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp 
+
+
 ### __Content__ 
 
 - The information in this website was gathered from the following sources
@@ -257,7 +265,7 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
 - Font https://www.1001freefonts.com/government-agent.font
 - Hero image from https://pixabay.com/photos/naked-upper-body-fit-lifestyle-1847866/
-- Top nav code origin from https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp 
+
 
 https://pixabay.com/photos/man-old-senior-suffering-despair-513529/
 https://pixabay.com/photos/man-smile-happy-people-portrait-4333898/
@@ -272,3 +280,11 @@ https://pixabay.com/photos/old-man-face-winter-man-elderly-1147283/
 https://pixabay.com/photos/human-man-gentleman-masculine-3782189/
 https://pixabay.com/photos/light-bulb-man-surrealism-current-1042480/
 https://pixabay.com/photos/newborn-baby-son-father-man-3251279/
+
+  #### Technologies 
+   -------------------
+   1. HTML
+   2. CSS
+   3. JavaScript
+
+----------------------------------
