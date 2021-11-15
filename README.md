@@ -1,5 +1,7 @@
 # Check Your Pecs!
 
+Welcome to Check Your Pecs. - https://amzzy78.github.io/Check-your-pecs/
+
 Check your Pecs is a website dedicated to raising awareness about breast cancer in men over 60. Our goal is to provide practical tips and advice on how to check yourself, how often and what you should do if you're worried about something.
 We have added a Resources page for further reading and support. The page consists of links to various websites, social media support groups and news paper articles 
 from male survivors of breast cancer.
@@ -31,8 +33,6 @@ Check Your Pecs is a fully responsive site.
 
 (b.) I want to share experience on male breast cancer
 
-
--------------------------------
 
 ## __Wireframe__
 ![New-Wireframe-1](https://user-images.githubusercontent.com/62209464/141694372-22250c56-d2dd-4189-9221-8779cfb5c260.jpg)
@@ -197,8 +197,15 @@ It would be nice to have a blog section where users that signed up could be enab
   
   ### __Lighthouse Testing__
   
-  ### __Landing Page
+  ### __Landing Page__
   
+  #### __Desktop__
+  
+  ![desktop](https://user-images.githubusercontent.com/62209464/141773088-38f62f84-7277-4bc0-a7fb-1fd200a4db1a.jpg)
+ 
+ #### __Mobile__
+  
+  ![mobile](https://user-images.githubusercontent.com/62209464/141773056-568de55c-2144-4bee-a4fc-4811b2930e41.jpg)
   
   
   #### __Privacy Policy__
@@ -243,6 +250,7 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 
 - The images used on the website are from: 
 - https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632
+- The diagrams used are from:
 - virtualmedicalcentre.com
 - karenhospital.org
 - Hero image was optimised at https://imagecompressor.com/
