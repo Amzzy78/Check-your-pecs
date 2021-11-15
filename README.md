@@ -1,21 +1,57 @@
-# Check your Pecs!
+# Check Your Pecs!
 
-Check your Pecs is a website dedicated to raising awareness about breast cancer in men over 60. Our goal is to provide practical tips and advice on how to check yourself, how often and what you should do if you're worried about something.....
-
-...
-
-Example readme template as base..
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Check your Pecs is a website dedicated to raising awareness about breast cancer in men over 60. Our goal is to provide practical tips and advice on how to check yourself, how often and what you should do if you're worried about something.
+We have added a Resources page for further reading and support. The page consists of links to various websites, social media support groups and news paper articles 
+from male survivors of breast cancer.
+The images on the website are to reflect males over 60 in a positive light and to show that taking care of your body no matter what age, is simply a good thing to do for yourself.
+Check Your Pecs is a fully responsive site.
 
 ![responsive](https://user-images.githubusercontent.com/62209464/141694449-047ea760-083c-486c-9f50-5e0ec0ecb451.jpg)
+
+# User Experience (UX)
+
+## First Time Visitor Goals: 
+(a.) I want to seek information about male breast cancer.
+
+(b.) I want the site to be easy to navigate to the specific sections that I want to read about.
+
+(c.) I want to see clear instructions on how to check my breast for cancer.
+
+(d.) I want to be able to sign up to receive a monthly reminder to check myself.
+
+(e.) I want to be able to view the site in any reasonable browser so that I can use what I’m accustomed to. 
+
+(d.) I do not want to navigate through too much content to get to the point of my search.
+
+(f.) I want to be given options to explore the topic further and to seek support groups.
+
+## Returning Visitor Goals: 
+
+(a.) I want to see reqular updates and content relevant to male breast cancer.
+
+(b.)
+
+(c.)
+
+(e.)
+
+-------------------------------
 
 ## Wireframe
 ![New-Wireframe-1](https://user-images.githubusercontent.com/62209464/141694372-22250c56-d2dd-4189-9221-8779cfb5c260.jpg)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+1. Nav bar with links to the sites' goal on raising awareness of male breast cancer: check yourself, dropdown menu with more info, found something? and a sign up form to recieve a monthly reminder.
+   
+2. Footer bar with links to the site's pages: privacy policy and resources. Plus a button named top to also 
+
+3. Check Your Pecs text logo in the footer which links back to the top of the page.
+
+4. Content relative to spreading awareness about the topic.
+
+5. Responsive on all device sizes. 
+
 
 ### Existing Features
 
