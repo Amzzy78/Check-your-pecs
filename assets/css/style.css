@@ -308,6 +308,10 @@ body {
     color: #EFD7CA;
 }
 
+#symptoms {
+    padding-left: 10px;
+}
+
 /* Left and right column */
 .column.side {
     background-color: #EFD7CA;
@@ -348,8 +352,8 @@ body {
 
 /*Private Policy page*/
 .text-col {
-    color: #EFD7CA ;
-    
+    color: #EFD7CA;
+
 }
 
 .resources {
@@ -431,10 +435,11 @@ button:hover {
 }
 
 /* Float cancel and signup buttons and add an equal width */
-.cancel-btn, .signup-btn {
+.cancel-btn,
+.signup-btn {
     float: left;
     width: 50%;
-  }
+}
 
 /* Add padding to container elements */
 .container {
