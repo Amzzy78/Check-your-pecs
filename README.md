@@ -194,7 +194,9 @@ Check Your Pecs is a fully responsive site.
   ### Lighthouse Testing
   ![policy-lighthouse](https://user-images.githubusercontent.com/62209464/141767068-649e9444-f25f-4dc2-ab40-9506d4720a57.jpg)
   <br>
-  ![policy-lighthouse](https://user-images.githubusercontent.com/62209464/141767097-9701197a-36d3-4f69-8c67-e7e11beb2552.jpg)
+  
+  ![res-lighthouse](https://user-images.githubusercontent.com/62209464/141768469-47e71005-a54d-4c21-9189-412d136ebbe3.jpg)
+
 
 ### Unfixed Bugs
 
