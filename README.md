@@ -173,15 +173,19 @@ Check Your Pecs is a fully responsive site.
 
 ![Responsive](https://user-images.githubusercontent.com/62209464/141762262-52466604-f86d-4498-b1a5-cb3752f321c0.jpg)
 
-
-
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F)
+  ### Privacy Policy page
 
   ![html](https://user-images.githubusercontent.com/62209464/141690014-077ee5f7-12be-491c-8ce5-696f63af625f.png)
   <br>
+  ### Resources Page
+  
+  ![validator-res](https://user-images.githubusercontent.com/62209464/141763230-5d7b811b-83bd-458f-a03e-0384439243fa.jpg)
+  <br>
+  
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Famzzy78.github.io%2FCheck-your-pecs%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
