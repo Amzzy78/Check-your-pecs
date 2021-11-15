@@ -266,21 +266,6 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - Font https://www.1001freefonts.com/government-agent.font
 - Hero image from https://pixabay.com/photos/naked-upper-body-fit-lifestyle-1847866/
 
-
-https://pixabay.com/photos/man-old-senior-suffering-despair-513529/
-https://pixabay.com/photos/man-smile-happy-people-portrait-4333898/
-https://pixabay.com/photos/beard-facial-hair-man-mustache-1867788/
-https://pixabay.com/photos/man-portrait-homeless-poverty-male-844208/
-https://pixabay.com/photos/male-black-and-white-portrait-face-4494491/
-https://pixabay.com/photos/man-senior-portrait-bearded-man-53899/
-https://pixabay.com/photos/man-portrait-male-person-human-2785071/
-https://pixabay.com/photos/people-man-adult-naked-athlete-3111280/
-https://pixabay.com/photos/portrait-man-people-cuba-person-5378357/
-https://pixabay.com/photos/old-man-face-winter-man-elderly-1147283/
-https://pixabay.com/photos/human-man-gentleman-masculine-3782189/
-https://pixabay.com/photos/light-bulb-man-surrealism-current-1042480/
-https://pixabay.com/photos/newborn-baby-son-father-man-3251279/
-
   #### Technologies 
    -------------------
    1. HTML
