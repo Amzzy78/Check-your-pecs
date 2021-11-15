@@ -68,7 +68,7 @@ Check Your Pecs is a fully responsive site.
 
 - __The landing page hero image__
 
-  - The landing page hero secttion includes a photograph of a male's chest area with the sites text logo overlay.
+  - The landing page hero section includes a photograph of a male's chest area with the sites text logo overlay.
   - Under the text logo there is a sentence to express the sites purpose. 
   
 ![hero](https://user-images.githubusercontent.com/62209464/141690984-78be544f-8e41-4ab3-89ee-7c93f88d1142.jpg)
@@ -155,7 +155,7 @@ Check Your Pecs is a fully responsive site.
 ![Colour Scheme](https://user-images.githubusercontent.com/62209464/141690396-ad620b3b-a5c7-40b5-bcd2-c8a6e725389b.jpg)
 
  ### __Imagery__
- - We chose images to relect males over 60 in a positive and healthy light.
+ - We chose images to reflect males over 60 in a positive and healthy light.
  - The diagram images are simple and to the point.
 
 -------------------------------
@@ -259,8 +259,8 @@ The live link can be found here - https://amzzy78.github.io/Check-your-pecs/
 - The images used on the website are from: 
 - https://stock.adobe.com/ie/Library/urn:aaid:sc:EU:4461e351-b9c3-4027-bbf4-a7d3a62a4551?asset_id=239379632
 - The diagrams used are from:
-- virtualmedicalcentre.com
-- karenhospital.org
+   - virtualmedicalcentre.com
+   - karenhospital.org
 - Hero image was optimised at https://imagecompressor.com/
 - Colour scheme from https://hookagency.com/blog/masculine-color-schemes/
 - Font https://www.1001freefonts.com/government-agent.font
